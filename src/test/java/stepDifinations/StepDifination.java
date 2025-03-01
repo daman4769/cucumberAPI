@@ -39,8 +39,10 @@ public class StepDifination extends Utils{
 		 rspspec = new ResponseSpecBuilder().expectStatusCode(200).expectContentType(ContentType.JSON).build();
 		
          res = given().spec(addPlaceReqSpec()).body(testDataBuild.addPlaceReqData(name,language,address));
-         System.out.println("first change in delete");
-         System.out.println("first change in delete");
+
+
+System.out.println("this is from main project");
+
 	
 	}
 	
