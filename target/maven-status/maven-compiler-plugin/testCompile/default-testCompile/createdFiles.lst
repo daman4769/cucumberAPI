@@ -1,0 +1,8 @@
+resourses\APIResorses.class
+resourses\Utils.class
+pojo\location.class
+stepDifinations\StepDifination.class
+pojo\AddPlacePojo.class
+resourses\TestDataBuild.class
+stepDifinations\Hooks.class
+cucumber\Options\TestRunner.class
